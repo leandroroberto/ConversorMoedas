@@ -9,13 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/picker": "^1.8.0",
+    "@react-native-picker/picker": "^2.7.7",
+    "axios": "^1.7.2",
     "expo": "~51.0.23",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.3"
+    "react-native": "0.74.3",
+    "react-native-picker-select": "^9.2.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "@types/react": "^18.3.3"
   },
   "private": true
 }
